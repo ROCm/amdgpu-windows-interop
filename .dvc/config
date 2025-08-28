@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://therock-testing-bucket
+    allow_anonymous_login = false
+    use_ssl = true
