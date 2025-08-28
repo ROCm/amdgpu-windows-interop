@@ -1,0 +1,5 @@
+outs:
+- md5: d51ab34d36c4138336ac60acee3a7bb2
+  size: 702568
+  hash: md5
+  path: amdrdf.lib

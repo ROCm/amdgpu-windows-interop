@@ -1,0 +1,5 @@
+outs:
+- md5: e268d536ee02f914af29a486c0098eee
+  size: 215198
+  hash: md5
+  path: vam.lib

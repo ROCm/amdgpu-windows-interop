@@ -1,0 +1,5 @@
+outs:
+- md5: 340b71fa6e84581b370cf7ddf438f2db
+  size: 35902
+  hash: md5
+  path: ddYaml.lib

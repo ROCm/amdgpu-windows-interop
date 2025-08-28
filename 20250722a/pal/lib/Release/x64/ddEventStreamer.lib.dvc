@@ -1,0 +1,5 @@
+outs:
+- md5: a1fd0ec08cdcb6f27398689039fe72e6
+  size: 35768
+  hash: md5
+  path: ddEventStreamer.lib

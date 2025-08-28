@@ -1,0 +1,5 @@
+outs:
+- md5: 966970a450cad8cd8b9b85b130d4de05
+  size: 13230
+  hash: md5
+  path: ddNet.lib

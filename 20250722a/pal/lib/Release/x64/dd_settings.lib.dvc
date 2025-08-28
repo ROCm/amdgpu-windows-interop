@@ -1,0 +1,5 @@
+outs:
+- md5: acc785b1f0f97340ffed7657cfbd4e1a
+  size: 205772
+  hash: md5
+  path: dd_settings.lib

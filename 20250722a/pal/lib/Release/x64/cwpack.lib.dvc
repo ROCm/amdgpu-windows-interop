@@ -1,0 +1,5 @@
+outs:
+- md5: 38ef9117d29d7507e5d1eb4da4ac385a
+  size: 27894
+  hash: md5
+  path: cwpack.lib
